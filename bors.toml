@@ -16,3 +16,5 @@ pr_status = [ ]
 timeout_sec = 60
 
 delete_merged_branches = true
+
+required_approvals = 1
