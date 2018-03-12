@@ -12,8 +12,8 @@ block_labels = [
 
 pr_status = [ ]
 
-# timeout after 1 minute
-timeout_sec = 60
+# timeout after 2 minutes
+timeout_sec = 120
 
 delete_merged_branches = true
 
