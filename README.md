@@ -3,7 +3,7 @@ Repository to test bors-ng out
 
 ## Test
 
-changing things
+Trigger a run with a change.
 
 
 xxxxxxx
